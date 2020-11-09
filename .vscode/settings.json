@@ -61,6 +61,7 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "array": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "deque": "cpp"
     }, // 格式化时调整include的顺序（按字母排序）
 }
