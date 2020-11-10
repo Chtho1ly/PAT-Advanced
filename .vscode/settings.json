@@ -62,6 +62,8 @@
         "algorithm": "cpp",
         "array": "cpp",
         "fstream": "cpp",
-        "deque": "cpp"
-    }, // 格式化时调整include的顺序（按字母排序）
+        "deque": "cpp",
+        "queue": "cpp"
+    },
+    "cmake.configureOnOpen": false, // 格式化时调整include的顺序（按字母排序）
 }
