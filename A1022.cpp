@@ -1,4 +1,6 @@
 //https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336
+//谨慎关同步
+//注意数据格式，输出int时注意要求位数
 #include <algorithm>
 #include <iostream>
 #include <map>
